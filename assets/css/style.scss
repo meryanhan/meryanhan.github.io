@@ -3,17 +3,40 @@
 
 @import "{{ site.theme }}";
 
+a:hover,
+a:focus {
+  font-weight: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+div.wrapper {
+  width: auto;
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+header,
+section {
+  float: none;
+  position: static;
+  width: auto;
+}
+
+header {
+  padding-right: 0;
+}
+
+section {
+  border: 0;
+  padding: 20px 0 50px;
+  margin: 0;
+}
+
 header .avatar {
   display: block;
   width: 100%;
-  max-width: 220px;
+  max-width: 180px;
   height: auto;
   margin: 0 0 20px;
-  border-radius: 12px;
-}
-
-@media print, screen and (max-width: 960px) {
-  header .avatar {
-    max-width: 160px;
-  }
 }
