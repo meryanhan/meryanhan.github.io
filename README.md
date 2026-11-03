@@ -6,5 +6,9 @@ Currently, I'm building [Nisuform](https://nisuform.com/), a backend for contact
 
 I'm always interested in what other indie developers are working on. Show me what you're building, or just say hi. I'm usually happy to talk shop.
 
+I'm also currently open to work. If you have something you think I'd be a good fit for, feel free to reach out.
+
 - **Nisuform:** [nisuform.com](https://nisuform.com/)
 - **GitHub:** [github.com/meryanhan](https://github.com/meryanhan)
+- **X:** [x.com/meryanhan](https://x.com/meryanhan)
+- **Email:** [helloryanhan@gmail.com](mailto:helloryanhan@gmail.com)
