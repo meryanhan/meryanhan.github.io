@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header .avatar {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  margin: 0 0 20px;
+  border-radius: 12px;
+}
+
+@media print, screen and (max-width: 960px) {
+  header .avatar {
+    max-width: 160px;
+  }
+}

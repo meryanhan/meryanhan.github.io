@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Ryan Han
 description: Software engineer
+logo: /assets/images/ryanhan.jpg
 titles_from_headings:
   strip_title: true
